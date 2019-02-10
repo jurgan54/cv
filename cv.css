@@ -1,0 +1,52 @@
+@font-face {
+  font-family: "PolicePerso";
+  src: url("spider.ttf") format('truetype');
+}
+
+
+body {
+  background-image: url("spider5.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+
+
+}
+
+h1 {
+  font-family: "PolicePerso",sans-serif;
+  color: white;
+
+}
+
+h3 {
+  font-family: "PolicePerso",serif;
+  color: white;
+  border: 2px white groove;
+  border-radius: 7px 0px 7px 0px;
+  width: 200px;
+  box-shadow: 3px 3px 3px 3px white;
+  padding-left: 25px;
+  padding-top: 10px;
+
+
+}
+
+#red {
+  color: white;
+
+}
+#align {
+  text-align: center;
+  list-style-position: inside;
+color: white;
+}
+
+
+#right {
+  text-align: right;
+  list-style-position: inside;
+  color: white;
+}
+#blue {
+  color: white;
+}
